@@ -1,27 +1,27 @@
 # 🚀 FP Spoofer
 
-**FP Spoofer** est un tool open source développé par **FP Project** permettant de modifier certains identifiants afin d'améliorer l'accès aux serveurs FiveM.
+**FP Spoofer** is an open-source tool developed by **FP Project** designed to modify certain identifiers and improve access to FiveM servers.
 
 ---
 
-## ✨ Fonctionnalités
+## ✨ Features
 
-* 🔧 Spoof des identifiants (HWID)
-* ⚡ Exécution rapide et sans configuration
-* 🖥️ Interface moderne et simple
-* 🔄 Mises à jour régulières
-* 🪶 Léger et optimisé
+* 🔧 HWID Spoofing
+* ⚡ Fast execution with no complex setup
+* 🖥️ Clean and modern interface
+* 🔄 Regular updates
+* 🪶 Lightweight and optimized
 
 ---
 
-## 📥 Téléchargement
+## 📥 Download
 
-👉 Télécharge la dernière version ici :
+👉 Download the latest version here:
 https://github.com/FP-Project/FP-Spoofer/releases
 
 ---
 
-## 📸 Aperçu
+## 📸 Preview
 
 ![Preview](https://via.placeholder.com/800x400.png?text=FP+Spoofer+Preview)
 
@@ -29,46 +29,46 @@ https://github.com/FP-Project/FP-Spoofer/releases
 
 ## ⚙️ Installation
 
-1. Télécharge le fichier depuis les releases
-2. Lance le programme
-3. Utilise les options disponibles
+1. Download the file from the releases page
+2. Launch the program
+3. Use the available features
 
 ---
 
-## 📌 À propos
+## 📌 About
 
-FP Spoofer est développé par **FP Project** avec pour objectif de proposer un outil simple, rapide et efficace.
-
----
-
-## ⚠️ Avertissement
-
-Ce projet est fourni à des fins éducatives uniquement.
-L'utilisation de ce logiciel est sous votre responsabilité.
+FP Spoofer is developed by **FP Project** with the goal of providing a simple, fast, and efficient tool.
 
 ---
 
-## 🤝 Contribution
+## ⚠️ Disclaimer
 
-Les contributions sont les bienvenues !
-
-1. Fork le repo
-2. Crée une branche (`feature/ma-feature`)
-3. Commit tes modifications
-4. Push et ouvre une Pull Request
+This project is provided for educational purposes only.
+Use of this software is at your own risk.
 
 ---
 
-## 📄 Licence
+## 🤝 Contributing
 
-Projet open source — à définir (MIT recommandé)
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a branch (`feature/your-feature`)
+3. Commit your changes
+4. Push and open a Pull Request
+
+---
+
+## 📄 License
+
+Open-source project — license to be defined (MIT recommended)
 
 ---
 
 ## 💬 Contact
 
-Pour toute question ou suggestion, ouvre une issue sur GitHub.
+For any questions or suggestions, open an issue on GitHub.
 
 ---
 
-⭐ N'hésite pas à mettre une étoile si le projet te plaît !
+⭐ Don’t forget to star the repo if you like the project!
