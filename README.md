@@ -1,2 +1,2 @@
 # GX Project Website
-https://gx-project.com
+📩 https://gx-project.com
